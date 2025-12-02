@@ -1,0 +1,216 @@
+.animada{
+  transform: rotate(90deg);
+  transition: ease-in-out 1s;
+}
+
+.Flores{
+  display: grid;
+  grid-template-columns:5vw 5vw 5vw 5vw 5vw 5vw 5vw 5vw 5vw 5vw 5vw 5vw 5vw 5vw 5vw 5vw 5vw 5vw 5vw 5vw ;
+  grid-template-rows: 18vh 18vh 18vh 18vh 18vh;
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 9;
+}
+
+.Flor1{
+  position: fixed;
+  height: auto;
+  min-width: 12vw;
+  grid-column-start: 1;
+  grid-row-start: 1;
+}
+
+.Flor2{
+  position: fixed;
+  height: auto;
+  min-width: 15vw;
+  grid-column-start: 5;
+  grid-row: 5;
+}
+
+.Flor3{
+  position: fixed;
+  height: auto;
+  min-width: 22vw;
+  grid-column-start: 1;
+  grid-row-start: 2;
+}
+
+.Flor4{
+  position: fixed;
+  height: auto;
+  min-width: 15vw;
+  grid-column-start: 7;
+  grid-row-start: 2;
+}
+
+.Flor5{
+  position: fixed;
+  height: auto;
+  min-width: 16vw;
+  grid-column-start: 8;
+  grid-row-start: 4;
+}
+
+.Flor6{
+  position: fixed;
+  height: auto;
+  min-width: 16vw;
+  grid-column-start: 5;
+  grid-row-start: 3;
+}
+
+.Flor7{
+  position: fixed;
+  height: auto;
+  min-width: 15vw;
+  grid-column-start: 2;
+  grid-row-start: 4;
+}
+
+.Flor8{
+  position: fixed;
+  height: auto;
+  min-width: 20vw;
+  grid-column-start: 14;
+  grid-row-start: 1;
+}
+
+.Flor9{
+  position: fixed;
+  height: auto;
+  min-width: 9vw;
+  grid-column-start: 19;
+  grid-row-start: 1;
+}
+
+.Flor10{
+  position: fixed;
+  height: auto;
+  min-width: 10vw;
+  grid-column-start: 11;
+  grid-row-start: 3;
+}
+
+.Flor11{
+    position: fixed;
+    height: auto;
+    min-width: 12vw;
+    grid-column-start: 12;
+    grid-row-start: 5;
+}
+
+.Flor12{
+    position: fixed;
+    height: auto;
+    min-width: 10vw;
+    grid-column-start: 1;
+    grid-row-start: 5;
+}
+
+.Flor13{
+    position: fixed;
+    height: auto;
+    min-width: 12vw;
+    grid-column-start: 10;
+    grid-row-start: 2;
+}
+
+.Flor14{
+    position: fixed;
+    height: auto;
+    min-width: 16vw;
+    grid-column-start: 4;
+    grid-row-start: 1;
+}
+
+.Flor15{
+    position: fixed;
+    height: auto;
+    min-width: 8vw;
+    grid-column-start: 13;
+    grid-row-start: 2;
+}
+
+.Flor16{
+    position: fixed;
+    height: auto;
+    min-width: 6vw;
+    grid-column-start: 9;
+    grid-row-start: 2;
+}
+
+.Flor17{
+    position: fixed;
+    height: auto;
+    min-width: 5vw;
+    grid-column-start: 5;
+    grid-row-start: 4;
+}
+
+.Flor18{
+    position: fixed;
+    height: auto;
+    min-width: 5vw;
+    grid-column-start: 6;
+    grid-row-start: 2;
+}
+
+.Flor19{
+  position: fixed;
+  height: auto;
+  min-width: 5vw;
+  grid-column-start: 1;
+  grid-row-start: 2;
+}
+
+.Flor20{
+  position: fixed;
+  height: auto;
+  min-width: 5vw;
+  grid-column-start: 3;
+  grid-row-start: 1;
+}
+
+.Flor21{
+  position: fixed;
+  height: auto;
+  min-width: 25vw;
+  grid-column-start: 14;
+  grid-row-start: 4;
+}
+
+.Flor22{
+  position: fixed;
+  height: auto;
+  min-width: 25vw;
+  grid-column-start: 13;
+  grid-row-start: 2;
+}
+
+.Flor23{
+  position: fixed;
+  height: auto;
+  min-width: 25vw;
+  grid-column-start: 17;
+  grid-row-start: 3;
+}
+
+.Flor24{
+  position: fixed;
+  height: auto;
+  min-width: 15vw;
+  grid-column-start: 13;
+  grid-row-start: 3;
+}
+
+.Flor24{
+  position: fixed;
+  height: auto;
+  min-width: 14vw;
+  grid-column-start: 9;
+  grid-row-start: 4;
+}
